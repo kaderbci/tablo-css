@@ -1,0 +1,25 @@
+p,h1,h2{
+    color:aqua;
+}
+h2.center{
+    text-align: center;
+}
+.style-table{
+  border: 2px solid #666;  
+  margin: 15px;
+}
+.style-table td,th{
+border: 2px solid #666;
+padding: 10px;
+}
+.style-table tr{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.style-table th{
+  background-color: crimson;
+  color:white ;  
+  font-size: 28px;
+}
+.style-table td{
+    font-style: italic;
+}
